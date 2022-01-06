@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rrturer
+- 👋 Hi, I’m Dmitri @Rrturer
 - 👀 I’m interested in coding and reverse engineering
 - 🌱 I’m currently learning python/html/css/js
 - 💞️ I’m looking to collaborate on ...somebody witn $
