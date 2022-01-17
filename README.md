@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dmitri @Rrturer
 - 👀 I’m interested in coding and reverse engineering
 - 🌱 I’m currently learning python/html/css/js
-- 💞️ I’m looking to collaborate on ...somebody witn $
+- 💞️ I’m looking to collaborate on ...somebody with $
 - 📫 How to reach me email dimitrib.b2b@gmail.com
 
 <!---
